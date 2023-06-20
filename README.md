@@ -7,7 +7,7 @@ Page Main View
 
 1) For Length
 
-For Conversion From Feet to Inches the user will enter the record into the Feet input will get the desired result and vice-versa.
+For Conversion From Feet to Inches the user will enter the record into the Feet input and will get the desired result and vice-versa.
 
 The interface is like this
 
@@ -15,7 +15,7 @@ The interface is like this
 
 4) For Temperature
 
-For Conversion From Celsius to Fahrenheit the user will enter the record into the Celsius input will get the desired result and vice-versa.
+For Conversion From Celsius to Fahrenheit the user will enter the record into the Celsius input and will get the desired result and vice-versa.
 
 The interface is like this
 
@@ -23,7 +23,7 @@ The interface is like this
 
 7) For Volume
 
-For Conversion From Litres to Millilitre the user will enter the record into the Litre input will get the desired result and vice-versa.
+For Conversion From Litres to Millilitre the user will enter the record into the Litre input and will get the desired result and vice-versa.
 
 The interface is like this
 
@@ -31,7 +31,7 @@ The interface is like this
 
 10) For Weight
 
-For Conversion From Kilogram to Grams the user will enter the record into the Kilogram input will get the desired result and vice-versa.
+For Conversion From Kilogram to Grams the user will enter the record into the Kilogram input and will get the desired result and vice-versa.
 
 The interface is like this
 
