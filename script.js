@@ -48,4 +48,19 @@ mL.addEventListener('input', function () {
     litre.value = L;
 });
 
+//Weight Converter
+var kg = document.getElementById('KGram');
+var gram= document.getElementById('Gram');
+
+kg.addEventListener('input', function () {
+    let kG = this.value;
+    let G= kG* 1000;
+    gram.value = G;
+});
+gram.addEventListener('input', function () {
+    let G = this.value;
+    let kG =  G/ 1000;
+    kg.value = kG;
+});
+
 

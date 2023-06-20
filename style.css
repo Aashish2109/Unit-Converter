@@ -5,27 +5,52 @@
 }
 h1{
     text-align: center;
-    margin-top: 50px;
+    margin-top: 2rem;
+    width:50%;
+    
+}
+#mainheading
+{
+   background-color: blue;
+   margin-left: 23rem;
+   
+}
+
+.converter-head
+{
+    margin-left:10rem;
+    margin-top: 1rem;
+    margin-bottom:1rem;
+
 }
 #equal
 {
-    margin: 20px;
+    margin-left:11rem;
+    margin-bottom: 1rem;
 }
 #contain
 {
-    margin:20px auto;
-    width:70%;
+    margin:3rem 8rem 5rem 1rem;
+    width:40rem;
     text-align: center;
     background-color: aqua;
-    border-radius: 10px;
-    padding: 10px 10px 10px 10px;
+    border-radius: 1rem;
+    padding: 1rem 1rem 1rem 1rem;
+}
+#contain1
+{
+    margin:3rem 1rem 5rem 36rem ;
+    width:40rem;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 1rem;
+    padding: 1rem 1rem 1rem 1rem;
 }
 .inp
 {
-    padding: 5px;
+    padding: 0.5rem;
     text-align: center;
-    margin-left: 2px;
-    font-size: 20px;
+    font-size: 2rem;
     font-weight: bold;
-    border-radius: 10px;
+    border-radius: 10rem;
 }
