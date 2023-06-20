@@ -13,7 +13,7 @@ The interface is like this
 
 <img width="516" alt="Screenshot 2023-06-20 233007" src="https://github.com/Aashish2109/Unit-Converter/assets/99539876/a0afe1c8-f672-4c8c-b6ed-f7ec1f092b4c">
 
-4) For Temperature
+2) For Temperature
 
 For Conversion From Celsius to Fahrenheit the user will enter the record into the Celsius input and will get the desired result and vice-versa.
 
@@ -21,7 +21,7 @@ The interface is like this
 
 <img width="532" alt="Screenshot 2023-06-20 233033" src="https://github.com/Aashish2109/Unit-Converter/assets/99539876/2544de0d-d6a0-4b75-9a6d-0afce2d1f02f">
 
-7) For Volume
+3) For Volume
 
 For Conversion From Litres to Millilitre the user will enter the record into the Litre input and will get the desired result and vice-versa.
 
@@ -29,7 +29,7 @@ The interface is like this
 
 <img width="522" alt="Screenshot 2023-06-20 233057" src="https://github.com/Aashish2109/Unit-Converter/assets/99539876/9fc051f6-29c2-4b59-841f-a9352f885245">
 
-10) For Weight
+4) For Weight
 
 For Conversion From Kilogram to Grams the user will enter the record into the Kilogram input and will get the desired result and vice-versa.
 
